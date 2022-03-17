@@ -1,0 +1,1 @@
+This is just a repository that i wanna put on submition on ma degress on cs50, Not all the weeek here i put on the same folder.Yall can take and forke anytime and if yall have any helper please contact me
